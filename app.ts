@@ -1,1 +1,3 @@
-console.log("hello perworld");
+import { Application } from "./src/Application";
+
+Application.run();

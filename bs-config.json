@@ -2,5 +2,5 @@
     "files" : "./src/**/*.{js, html, css}",
     "server" : { "baseDir" : "./bin" },
     "https" : false,
-    "browser" : ["google-chrome", "firefox"]
+    "browser" : ["chrome"]
 }
